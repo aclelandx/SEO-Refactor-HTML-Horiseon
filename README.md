@@ -28,9 +28,9 @@ GitHub Pages : (https://aclelandx.github.io/SEO-Refactor-HTML-Horiseon/)
 
 Screenshot previews of the website
 
-<img src="./images/RefactorScreenshot1.jpg" alt="First screenshot of the refactored horiseon webpage">
-<img src="./images/RefactorScreenshot2.png" alt="Second screenshot of the refactored horiseon webpage">
-<img src="./images/RefactorScreenshot3.png" alt="Third screenshot of the refactored horiseon webpage">
+<img src="./assets/images/RefactorScreenshot1.jpg" alt="First screenshot of the refactored horiseon webpage the navigation and the hero image are displayed">
+<img src="./assets/images/RefactorScreenshot2.png" alt="Second screenshot of the refactored horiseon webpage the primary content and information of the webpage is displayed">
+<img src="./assets/images/RefactorScreenshot3.png" alt="Third screenshot of the refactored horiseon webpage some of the main content is displayed along with the footer.">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
