@@ -22,9 +22,9 @@ Or download the Repo and launch the index.html into your web browser
 
 ## Links
 
-GitHub Repo : (https://github.com/aclelandx/SEO-Refactor-HTML-Horiseon)
+<a href="https://github.com/aclelandx/SEO-Refactor-HTML-Horiseon" target="_blank"> GitHub Repo </a>
 
-GitHub Pages : (https://aclelandx.github.io/SEO-Refactor-HTML-Horiseon/)
+<a href="https://aclelandx.github.io/SEO-Refactor-HTML-Horiseon/" target="_blank"> GitHub Pages </a>
 
 ## Screenshots
 
